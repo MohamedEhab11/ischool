@@ -1,0 +1,48 @@
+.coontnara3{
+background-color: aqua;
+color:blue;
+padding: 20px;
+margin: 10px;
+border: 5px;
+}
+
+.header3{
+background-color: rgb(255, 0, 0);
+color:rgb(0, 183, 255);
+padding: 1px;
+margin: 5px;
+border: 5px;
+text-align: center;
+}
+
+.navbar3{
+background-color: rgb(75, 138, 85);
+color:rgb(22, 21, 46);
+padding: 1px;
+margin: 5px;
+border: 5px; 
+text-align: center;
+}
+
+.artecal3{
+background-color: rgb(22, 50, 27);
+color:rgb(66, 90, 2);
+padding: 1px;
+margin: 5px;
+border: 5px; 
+text-align: center;
+float: left;
+
+}
+img{
+float: left;
+}
+
+.clear{
+clear: both;
+}
+
+.fotar{
+background-color: rgb(143, 170, 220);
+color:rgb(50, 39, 51); 
+}
